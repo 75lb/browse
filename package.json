@@ -1,12 +1,12 @@
 {
   "name": "browse",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Terminal commands to launch your preferred browser in full-screen mode",
   "author": "Lloyd Brookes",
   "bin": {
-      "ca": "script/canary.applescript",
-      "ch": "script/chrome.applescript",
-      "ff": "script/firefox.applescript",
-      "sf": "script/safari.applescript"
+    "ca": "script/canary.applescript",
+    "ch": "script/chrome.applescript",
+    "ff": "script/firefox.applescript",
+    "sf": "script/safari.applescript"
   }
 }
