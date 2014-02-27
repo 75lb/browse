@@ -1,6 +1,6 @@
 {
   "name": "browse",
-  "version": "0.0.4",
+  "version": "0.1.0",
   "description": "Terminal commands to launch your preferred browser in full-screen mode",
   "author": "Lloyd Brookes",
   "bin": {
