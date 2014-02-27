@@ -4,7 +4,7 @@
   "description": "Terminal commands to launch your preferred browser in full-screen mode",
   "author": "Lloyd Brookes",
   "bin": {
-    "ca": "script/canary.applescript",
+    "ca": "script/ca.js",
     "ch": "script/chrome.applescript",
     "ff": "script/firefox.applescript",
     "sf": "script/safari.applescript"
