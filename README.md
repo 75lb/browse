@@ -20,10 +20,12 @@ Usage
 Four conveniece commands are installed:
 
 ### Google Chrome Canary
-To launch Chrome Canary in Presentation Mode, run:
+Usage: 
 ```sh
-$ ca
+$ ca <options> <url>
 ```
+
+Canary will be launched in Presentation Mode. [See here for the full list of command line options](http://peter.sh/experiments/chromium-command-line-switches/). Stdio is discarded.
 
 ### Google Chrome
 To launch Chrome in Presentation Mode, run:
