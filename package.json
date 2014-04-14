@@ -7,6 +7,8 @@
     "ca": "script/canary.applescript",
     "ch": "script/chrome.applescript",
     "ff": "script/firefox.applescript",
-    "sf": "script/safari.applescript"
+    "sf": "script/safari.applescript",
+    "ccf": "script/cmd+ctrl+f.applescript",
+    "csf": "script/cmd+shft+f.applescript"
   }
 }
