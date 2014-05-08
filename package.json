@@ -2,6 +2,7 @@
   "name": "browse",
   "version": "0.0.3",
   "description": "Terminal commands to launch your preferred browser in full-screen mode",
+  "repository": "https://github.com/75lb/browse",
   "author": "Lloyd Brookes",
   "bin": {
     "ca": "script/canary.applescript",
