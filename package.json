@@ -1,7 +1,7 @@
 {
   "name": "browse",
   "version": "0.2.0",
-  "description": "Terminal commands to launch your preferred browser in full-screen mode",
+  "description": "Terminal commands to launch your preferred browser (or any app) in full-screen mode",
   "repository": "https://github.com/75lb/browse",
   "author": "Lloyd Brookes",
   "bin": {
