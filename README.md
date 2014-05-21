@@ -1,5 +1,5 @@
 [![view on npm](http://img.shields.io/npm/v/more-fs.svg)](https://www.npmjs.org/package/browse)
-![npm module downloads per month](http://img.shields.io/npm/dm/browse.svg)
+[![npm module downloads per month](http://img.shields.io/npm/dm/browse.svg)](https://www.npmjs.org/package/browse)
 [![Dependency Status](https://david-dm.org/75lb/browse.svg)](https://david-dm.org/75lb/browse)
 ![Analytics](https://ga-beacon.appspot.com/UA-27725889-27/browse/README.md?pixel)
 
@@ -18,7 +18,7 @@ $ npm install -g browse
 
 Usage
 -----
-Six conveniece commands are installed:
+Six convenience commands are installed:
 
 ### Google Chrome Canary
 To launch Chrome Canary in Presentation Mode, run:
