@@ -5,10 +5,10 @@
   "repository": "https://github.com/75lb/browse",
   "author": "Lloyd Brookes",
   "bin": {
-    "ca": "script/canary.applescript",
-    "ch": "script/chrome.applescript",
-    "ff": "script/firefox.applescript",
-    "sf": "script/safari.applescript",
+    "ca": "script/canary.sh",
+    "ch": "script/chrome.sh",
+    "ff": "script/firefox.sh",
+    "sf": "script/safari.sh",
     "ccf": "script/cmd+ctrl+f.applescript",
     "csf": "script/cmd+shft+f.applescript"
   }
