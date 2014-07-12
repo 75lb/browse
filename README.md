@@ -23,25 +23,25 @@ Six convenience commands are installed:
 ### Google Chrome Canary
 To launch Chrome Canary in Presentation Mode, run:
 ```sh
-$ ca
+$ ca <location>
 ```
 
 ### Google Chrome
 To launch Chrome in Presentation Mode, run:
 ```sh
-$ ch
+$ ch <location>
 ```
 
 ### Firefox
 To launch Firefox in full-screen Mode, run:
 ```sh
-$ ff
+$ ff <location>
 ```
 
 ### Safari
 To launch Safari in full-screen Mode, run:
 ```sh
-$ sf
+$ sf <location>
 ```
 
 ### Launch anything in full-screen
