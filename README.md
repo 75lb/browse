@@ -59,3 +59,4 @@ $ open -a "Google Chrome"; csf
 ```sh
 $ open -a "Google Chrome"; sleep 3; csf
 ```
+ 
