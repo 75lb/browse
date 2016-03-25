@@ -1,11 +1,10 @@
 [![view on npm](http://img.shields.io/npm/v/more-fs.svg)](https://www.npmjs.org/package/browse)
-[![npm module downloads per month](http://img.shields.io/npm/dm/browse.svg)](https://www.npmjs.org/package/browse)
+[![npm module downloads](http://img.shields.io/npm/dt/browse.svg)](https://www.npmjs.org/package/browse)
 [![Dependency Status](https://david-dm.org/75lb/browse.svg)](https://david-dm.org/75lb/browse)
-![Analytics](https://ga-beacon.appspot.com/UA-27725889-27/browse/README.md?pixel)
 
 browse
 ======
-Launch apps in full-screen mode from the Terminal. Currently Mac OS X only, patches welcome. 
+Launch apps in full-screen mode from the Terminal. Currently Mac OS X only, patches welcome.
 
 Install
 -------
@@ -45,18 +44,18 @@ $ sf <location>
 ```
 
 ### Launch anything in full-screen
-Run the command `ccf` (an applescript which sends the CMD+CTRL+f keystroke to the active application) following a regular `open` to switch it to full-screen mode: 
+Run the command `ccf` (an applescript which sends the CMD+CTRL+f keystroke to the active application) following a regular `open` to switch it to full-screen mode:
 ```sh
 $ open -a Calendar; ccf
 ```
 
-Should an app have an additional full-screen mode shortcutted by CMD+Shift+f (as Chrome does), use: 
+Should an app have an additional full-screen mode shortcutted by CMD+Shift+f (as Chrome does), use:
 ```sh
 $ open -a "Google Chrome"; csf
 ```
 
-**Tip**. If an app is slow to load, give it chance to load fully by inserting a pause before running the keyboard shortcut: 
+**Tip**. If an app is slow to load, give it chance to load fully by inserting a pause before running the keyboard shortcut:
 ```sh
 $ open -a "Google Chrome"; sleep 3; csf
 ```
- 
+
