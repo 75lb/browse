@@ -8,8 +8,10 @@
     "ca": "script/canary.sh",
     "ch": "script/chrome.sh",
     "ff": "script/firefox.sh",
+    "ffd": "script/firefox-dev.sh",
     "sf": "script/safari.sh",
     "ccf": "script/cmd+ctrl+f.applescript",
     "csf": "script/cmd+shft+f.applescript"
-  }
+  },
+  "license": "MIT"
 }
